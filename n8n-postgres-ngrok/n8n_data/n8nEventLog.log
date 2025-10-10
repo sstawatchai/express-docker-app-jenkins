@@ -1,0 +1,2 @@
+{"__type":"$$EventMessageAudit","id":"028738b9-886f-4a69-aa82-af96b211fb62","ts":"2025-10-10T23:10:56.203+07:00","eventName":"n8n.audit.user.login.success","message":"n8n.audit.user.login.success","payload":{"userId":"d3296d36-e5ad-4b99-9b02-4181f6764c27","_email":"sstawatchai@gmail.com","_firstName":"Tawatchai","_lastName":"ss","globalRole":"global:owner","authenticationMethod":"email"}}
+{"__type":"$$EventMessageConfirm","confirm":"028738b9-886f-4a69-aa82-af96b211fb62","ts":"2025-10-10T23:10:56.203+07:00","source":{"id":"0","name":"eventBus"}}
